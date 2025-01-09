@@ -60,10 +60,10 @@ li,
   */
   --tp-common-white: #F5F7F5;
   --tp-common-white-solid: #fff;
-  --tp-common-black: #1E1E1E;
+  --tp-common-black: #121212;
   --tp-common-black-2: #1E1E1E;
   --tp-common-black-3: #141414;
-  --tp-common-dark: #121212;
+  --tp-common-dark: #000000;
   --tp-common-orange: #EB5939;
   --tp-grey-1: #262626;
   --tp-grey-2: #F4F4F4;
@@ -1902,6 +1902,28 @@ div.demo img {
   color: var(--tp-common-black);
   background-color: var(--tp-common-white);
   border-color: var(--tp-common-white);
+}
+
+.tp-btn-border-sm1 {
+  height: 44px;
+  line-height: 42px;
+  border-radius: 100px;
+  padding: 0 30px;
+  z-index: 9;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.16px;
+  overflow: hidden;
+  position: relative;
+  display: inline-block;
+  /* text-transform: uppercase; */
+  color: var(--tp-common-dark);
+  border: 1px solid var(--tp-common-dark);
+}
+.tp-btn-border-sm1:hover {
+  color: var(--tp-common-white-solid);
+  background-color: var(--tp-common-dark);
+  border-color: var(--tp-common-dark);
 }
 
 .tp-shop-btn {
@@ -6765,7 +6787,7 @@ body.tp-magic-cursor #magic-cursor {
 }
 
 .tp-header-logo img {
-  width: 85px;
+  /* width: 85px; */
   height: 100%;
 }
 .tp-header-area.header-sticky .container {
@@ -6956,7 +6978,7 @@ body.tp-magic-cursor #magic-cursor {
 }
 .tp-header-3-menu > nav > ul > li > a {
   font-size: 17px;
-  font-weight: 500;
+  font-weight: 400;
   padding: 12px 0;
   transition: 0.3s;
   display: inline-block;
@@ -7610,7 +7632,7 @@ body.tp-magic-cursor #magic-cursor {
   font-weight: 500;
   line-height: 1;
   letter-spacing: -0.3px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   position: relative;
 }
 .header-main-menu > nav > ul > li > .submenu > li > a::before {
@@ -10717,7 +10739,7 @@ body.tp-magic-cursor #magic-cursor {
 /*----------------------------------------*/
 .tp-footer-3-logo img {
   height: 100%;
-  width: 85px;
+  width: 285px;
 }
 .tp-footer-3-title {
   font-size: 30px;
@@ -10994,7 +11016,7 @@ body.tp-magic-cursor #magic-cursor {
   padding-bottom: 0;
 }
 .tp-footer-5-mail {
-  font-size: 50px;
+  font-size: 40px;
   font-weight: 500;
   line-height: 1;
   margin-right: 15px;
