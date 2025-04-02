@@ -39,7 +39,7 @@ include "./components/navbar.php";
                            <div class="col-xl-5 col-lg-5 col-md-4 mb-40">
                               <div class="ab-about-category-title-box tp_fade_bottom ab-2-about-title-style p-relative">
                                  <h4 class="ab-about-category-title">Our Services<br><span>What we do</span></h4>
-                                 <img class="ab-about-shape-1 d-none d-md-block" src="assets/img/inner-about/about/shape-1.png" alt="">
+                                 <img class="ab-about-shape-1 d-none d-md-block" src="assets/img/shape-1.png" alt="">
                               </div>
                            </div>
                            <div class="col-xl-7 col-lg-7 col-md-8">
