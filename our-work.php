@@ -13,21 +13,17 @@ include "./components/navbar.php";
                   <div class="row">
                      <div class="col-xl-12">
                         <div class="tm-hero-content">
-                           <span class="tm-hero-subtitle">Webify&trade;</span>
-                           <h4 class="tm-hero-title tp-char-animation">Our latest & great projects</h4>
+                           <h4 class="tm-hero-title tp-char-animation">Building the <br>impossible</h4>
                         </div>
                         <div class="tm-hero-text">
                            <p class="tp_title_anim">
-                              We’re a diverse team that works as fancies attention to
-                              details, enjoys beers on Friday nights and aspires to design
-                              the dent in the universe.
+                              We’re a diverse team that values attention to detail, enjoys Friday night beers, and strives to make a lasting impact on the world.
                            </p>
                         </div>
                      </div>
                   </div>
                </div>
             </div>
-            <!-- hero area end -->
 
             <!-- project area start -->
             <div class="tp-project-3-area pt-60 pw-project-style">
@@ -43,9 +39,9 @@ include "./components/navbar.php";
                               </div>
                               <div class="col-xl-4 col-lg-4 col-md-12 order-1 order-lg-0">
                                  <div class="tp-project-3-content text-center">
-                                    <span class="tp-project-3-meta">DEC 2024 . Creative </span>
-                                    <h4 class="tp-project-3-title-sm"><a href="portfolio-details-2.html">Pellente dapibus</a></h4>
-                                    <a class="tp-btn-project-sm" href="portfolio-details-2.html">See Project</a>
+                                    <span class="tp-project-3-meta">Branding // Website Development</span>
+                                    <h4 class="tp-project-3-title-sm"><a href="portfolio-details-2.html">Skin Icon</a></h4>
+                                    <a class="tp-btn-project-sm" href="skin-icon">See Project</a>
                                  </div>
                                  <div class="tp-project-3-border color-1 text-center">
                                     <span></span>

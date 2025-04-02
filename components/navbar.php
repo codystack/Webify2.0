@@ -6,33 +6,36 @@
                     <div class="col-xl-3 col-lg-6 col-md-6 col-6">
                         <div class="tp-header-logo tp-header-3-logo">
                             <a class="logo-1" href="./"><img src="assets/img/logo-dark.svg" width="200" alt="logo"></a>
-                            <a class="logo-2" href="./"><img src="assets/img/logo-white.svg" alt="logo"></a>
+                            <a class="logo-2" href="./"><img src="assets/img/logo-white.svg" width="200" alt="logo"></a>
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-6 d-none d-xl-block">
                         <div class="tp-header-3-menu-wrap text-center">
                             <div class="tp-header-3-menu-box d-inline-flex align-items-center justify-content-between">
-                            <div class="tp-header-3-menu header-main-menu">
-                                <nav class="tp-main-menu-content">
-                                    <ul>
-                                        <li class="has-dropdown">
-                                            <a href="./">home</a> 
-                                        </li>
-                                        <li class="has-dropdown">
-                                            <a href="#">about us</a>
-                                            <ul class="tp-submenu submenu">
-                                                <li><a href="about">who we are</a></li>
-                                                <li><a href="clients">our clients</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="has-dropdown">
-                                            <a href="what-we-do">what we do</a> 
-                                        </li>
-                                        <li class="has-dropdown">
-                                            <a href="our-work">our work</a> 
-                                        </li>
-                                    </ul>
-                                </nav>
+                                <div class="tp-header-3-menu header-main-menu">
+                                    <nav class="tp-main-menu-content">
+                                        <ul>
+                                            <!-- <li class="has-dropdown">
+                                                <a href="#">about us</a>
+                                                <ul class="tp-submenu submenu">
+                                                    <li><a href="about">who we are</a></li>
+                                                    <li><a href="clients">our clients</a></li>
+                                                </ul>
+                                            </li> -->
+                                            <li class="has-dropdown">
+                                                <a href="about">our story</a> 
+                                            </li>
+                                            <li class="has-dropdown">
+                                                <a href="what-we-do">what we do</a> 
+                                            </li>
+                                            <li class="has-dropdown">
+                                                <a href="our-work">our work</a> 
+                                            </li>
+                                            <li class="has-dropdown">
+                                                <a href="clients">our clients</a> 
+                                            </li>
+                                        </ul>
+                                    </nav>
                                 </div>
                             </div>
                         </div>
@@ -59,7 +62,7 @@
                         </div>
                     </div>
                 </div>
-                </div>
+            </div>
         </div>
 
     </header>

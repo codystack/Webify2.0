@@ -9,7 +9,6 @@ include "./components/navbar.php";
 
          <main>
 
-            <!-- hero area start -->
             <div class="tp-hero-3-area tp-hero-3-ptb fix">
                <div class="container">
                   <div class="row">
@@ -20,9 +19,9 @@ include "./components/navbar.php";
                            </div>
                            <h4 class="tp-hero-3-title tp_reveal_anim">
                               <span class="tp-reveal-line">Turning ideas into</span>
-                              <span class="tp-reveal-line">real life product</span>
+                              <span class="tp-reveal-line">real life product.</span>
                            </h4>
-                           <span class="tp-hero-3-category tp_reveal_anim">ux/ui design / design / branding / software development</span>
+                           <span class="tp-hero-3-category tp_reveal_anim">ux/ui design / design / branding / Mobile & Web Development</span>
                            <a class="tp-btn-black-2" href="contact">
                               Say Hello
                               <span class="p-relative">
@@ -45,7 +44,7 @@ include "./components/navbar.php";
                   </div>
                </div>
             </div>
-            <!-- hero area end -->
+            
 
             <!-- gallery area start -->
             <div class="tp-gallery-area fix p-relative">
@@ -395,15 +394,17 @@ include "./components/navbar.php";
             </div>
             <!-- project area end -->
 
-            <!-- video area start -->
-            <div class="tp-video-3-area">
-               <div class="tp-video-3-wrap p-relative">
-                  <video data-speed=".7" class="play-video" loop="" muted="" autoplay="" playsinline="">
-                     <source src="https://html.hixstudio.net/videos/liko/liko-3.mp4" type="video/mp4">
-                  </video>
+            <div class="pb-115 pt-115">
+               <div class="container-fluid">
+                  <div class="row gx-5">
+                     <div class="col-xl-12 col-lg-12 col-md-12 mb-5">
+                        <div class="fix">
+                           <img src="assets/img/focus.png" alt="">
+                        </div>
+                     </div>
+                  </div>
                </div>
             </div>
-            <!-- video area end -->
 
             <!-- service area start -->
             <div class="tp-service-3-area pt-130 pb-130">

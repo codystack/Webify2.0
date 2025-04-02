@@ -1894,7 +1894,7 @@ div.demo img {
   overflow: hidden;
   position: relative;
   display: inline-block;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   color: var(--tp-common-white);
   border: 1px solid var(--tp-common-white);
 }
@@ -6949,7 +6949,7 @@ body.tp-magic-cursor #magic-cursor {
   top: 0;
   display: inline-block;
   backdrop-filter: blur(8px);
-  background: rgba(46, 46, 46, 0.9);
+  background: #000000;
   border-radius: 100px;
   z-index: -1;
 }
@@ -19386,10 +19386,10 @@ body.tp-magic-cursor #magic-cursor {
   background-color: var(--tp-common-white);
 }
 .ab-inner-hero-title {
-  font-size: 180px;
+  font-size: 120px;
   font-weight: 500;
   line-height: 0.9;
-  letter-spacing: -9px;
+  letter-spacing: -7px;
   color: var(--tp-common-white);
   transform: translateX(-12px);
   margin-bottom: 30px;
