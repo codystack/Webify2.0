@@ -1,14 +1,21 @@
             <footer>
-                <div class="tp-footer-5-area dark-bg pt-120 pb-120">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-xl-12">
-                                <div class="tp-footer-5-content-wrap">
-                                    <div class="tp-footer-5-title-box">
-                                        <span class="tp-footer-5-subtitle">Want to <br> Start a Project?</span>
-                                        <h4 class="tp-footer-5-title footer-big-text">Let's Talk</h4>
+
+                <div class="tp-footer-3-area dark-bg pt-120">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-12 col-lg-12 col-md-12 mb-40">
+                            <div class="tp-footer-5-content-wrap mb-20">
+                                <div class="tp-footer-5-title-box text-lg-start text-center">
+                                    <span class="tp-footer-5-subtitle">Want to <br> Start a Project?</span>
+                                    <h4 class="tp-footer-5-title footer-big-text">Let's Talk</h4>
+                                </div>
+                                <div class="row align-items-center d-flex">
+                                    <div class="mb-20 col-lg-6 col-12 tp-footer-3-social text-lg-start text-center">
+                                        <a href="https://web.facebook.com/webifyng" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+                                        <a href="https://www.instagram.com/webifyng/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                                        <a href="https://x.com/Webifyng" target="_blank"><i class="fa-brands fa-twitter"></i></a>
                                     </div>
-                                    <div class="tp-footer-5-info d-flex align-items-center justify-content-start justify-content-md-end">
+                                    <div class="mb-20 col-lg-6 col-12 tp-footer-5-info d-inline-flex justify-content-center text-center text-lg-end">
                                         <a class="tp-footer-5-mail" href="mailto:hello@webify.com.ng">
                                             hello@webify.com.ng
                                         </a>
@@ -24,33 +31,57 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="tp-footer-3-widget text-center">
+                                <div class="tp-footer-3-logo-box">
+                                    <!-- <a class="tp-footer-3-logo" href="./">
+                                        <img src="assets/img/logo-white.svg" alt="logo">
+                                    </a> -->
+                                    <!-- <div class="tp-footer-3-menu mb-4">
+                                        <a href="terms">Terms of use</a>
+                                        <a href="privacy">Privacy policy</a>
+                                    </div> -->
+                                    <!-- <div class="tp-footer-3-social">
+                                        <a href="https://web.facebook.com/webifyng" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+                                        <a href="https://www.instagram.com/webifyng/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                                        <a href="https://x.com/Webifyng" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+                                    </div> -->
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
-                
-                <div class="tp-copyright-5-area tp-copyright-5-style-2 dark-bg pb-50">
-                    <div class="container container-1560">
-                    <div class="row align-items-center">
-                        <div class="col-xl-3 col-lg-6 col-md-5 d-none d-xl-block">
-                            <div class="tp-copyright-5-left-info">
-                                <span>Lekki, Lagos Nigeria.</span>
-                            </div>
-                        </div>
-                        <div class="col-xl-6 col-lg-6 col-md-7">
-                            <div class="tp-copyright-2-social text-start text-sm-center text-xl-center">
-                                <a class="mb-10" href="https://www.instagram.com/webifyng/" target="_blank">Instagram</a>
-                                <a class="mb-10" href="https://x.com/Webifyng" target="_blank">X</a>
-                                <a class="mb-10" href="https://web.facebook.com/webifyng" target="_blank">Facebook</a>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-6 col-md-5">
-                            <div class="tp-copyright-2-left text-center text-md-end">
-                                <p>© <script>document.write(new Date().getFullYear());</script> All Rights Reserved.</p>
+                </div>
+                <!-- <div class="tp-copyright-2-area tp-copyright-2-bdr-top dark-bg">
+                    <div class="container container-1480">
+                        <div class="row align-items-center">
+                            <div class="col-xl-12 col-lg-12">
+                                <div class="tp-copyright-2-left text-center">
+                                <p>© <script>document.write(new Date().getFullYear());</script> Webify — All rights reserved.</p>
+                                </div>
                             </div>
                         </div>
                     </div>
+                </div> -->
+
+                <div class="tp-copyright-2-area tp-copyright-2-bdr-top dark-bg">
+                    <div class="container container-1480">
+                        <div class="row align-items-center">
+                            <div class="col-xl-8 col-lg-7">
+                                <div class="tp-footer-3-menu text-center text-lg-start">
+                                    <a href="terms">Terms of use</a>
+                                    <a href="privacy">Privacy policy</a>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-4 col-lg-5">
+                                <div class="tp-footer-3-menu text-center text-lg-end">
+                                    <p>© <script>document.write(new Date().getFullYear());</script> Webify — All rights reserved.</p>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
+
             </footer>
         </div>
     </div>
