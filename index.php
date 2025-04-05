@@ -49,12 +49,12 @@ include "./components/navbar.php";
             <!-- gallery area start -->
             <div class="tp-gallery-area fix p-relative">
                <div class="tp-gallery-shape-1">
-                  <img class="img-1" src="assets/img/home-03/gallery/gal-shape-1.png" alt="">
-                  <img class="img-2" src="assets/img/home-03/gallery/gal-shape-dark-1.png" alt="">
+                  <img class="img-1" src="assets/img/gal-shape-1.png" alt="">
+                  <img class="img-2" src="assets/img/gal-shape-dark-1.png" alt="">
                </div>
                <div class="tp-gallery-shape-2">
-                  <img class="img-1" src="assets/img/home-03/gallery/gal-shape-2.png" alt="">
-                  <img class="img-2" src="assets/img/home-03/gallery/gal-shape-dark-2.png" alt="">
+                  <img class="img-1" src="assets/img/gal-shape-2.png" alt="">
+                  <img class="img-2" src="assets/img/gal-shape-dark-2.png" alt="">
                </div>
                <div class="container-fluid">
                   <div class="row">
@@ -64,62 +64,62 @@ include "./components/navbar.php";
                               <div class="swiper-wrapper tp-gallery-titming">
                                  <div class="swiper-slide">
                                     <div class="tp-gallery-item">
-                                       <img src="assets/img/home-03/gallery/gal-1.jpg" alt="">
+                                       <img src="assets/img/skinicon.jpg" alt="">
                                     </div>
                                  </div>
                                  <div class="swiper-slide">
                                     <div class="tp-gallery-item">
-                                       <img src="assets/img/home-03/gallery/gal-2.jpg" alt="">
+                                       <img src="assets/img/billbuddy.jpg" alt="">
                                     </div>
                                  </div>
                                  <div class="swiper-slide">
                                     <div class="tp-gallery-item">
-                                       <img src="assets/img/home-03/gallery/gal-3.jpg" alt="">
+                                       <img src="assets/img/fastquid.jpg" alt="">
                                     </div>
                                  </div>
                                  <div class="swiper-slide">
                                     <div class="tp-gallery-item">
-                                       <img src="assets/img/home-03/gallery/gal-4.jpg" alt="">
+                                       <img src="assets/img/phfdw.jpg" alt="">
                                     </div>
                                  </div>
                                  <div class="swiper-slide">
                                     <div class="tp-gallery-item">
-                                       <img src="assets/img/home-03/gallery/gal-5.jpg" alt="">
+                                       <img src="assets/img/momos.jpg" alt="">
                                     </div>
                                  </div>
                                  <div class="swiper-slide">
                                     <div class="tp-gallery-item">
-                                       <img src="assets/img/home-03/gallery/gal-3.jpg" alt="">
+                                       <img src="assets/img/pixpectiv.jpg" alt="">
                                     </div>
                                  </div>
                                  <div class="swiper-slide">
                                     <div class="tp-gallery-item">
-                                       <img src="assets/img/home-03/gallery/gal-1.jpg" alt="">
+                                       <img src="assets/img/quickfix.jpg" alt="">
                                     </div>
                                  </div>
                                  <div class="swiper-slide">
                                     <div class="tp-gallery-item">
-                                       <img src="assets/img/home-03/gallery/gal-2.jpg" alt="">
+                                       <img src="assets/img/twj.jpg" alt="">
                                     </div>
                                  </div>
                                  <div class="swiper-slide">
                                     <div class="tp-gallery-item">
-                                       <img src="assets/img/home-03/gallery/gal-3.jpg" alt="">
+                                       <img src="assets/img/qf.jpg" alt="">
                                     </div>
                                  </div>
                                  <div class="swiper-slide">
                                     <div class="tp-gallery-item">
-                                       <img src="assets/img/home-03/gallery/gal-4.jpg" alt="">
+                                       <img src="assets/img/lag.jpg" alt="">
                                     </div>
                                  </div>
                                  <div class="swiper-slide">
                                     <div class="tp-gallery-item">
-                                       <img src="assets/img/home-03/gallery/gal-5.jpg" alt="">
+                                       <img src="assets/img/eskrow.jpg" alt="">
                                     </div>
                                  </div>
                                  <div class="swiper-slide">
                                     <div class="tp-gallery-item">
-                                       <img src="assets/img/home-03/gallery/gal-3.jpg" alt="">
+                                       <img src="assets/img/ph.jpg" alt="">
                                     </div>
                                  </div>
                               </div>
